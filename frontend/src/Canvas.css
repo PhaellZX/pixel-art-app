@@ -1,0 +1,13 @@
+/* frontend/src/Canvas.css */
+.canvas-grid {
+  display: grid;
+  border: 1px solid #ccc;
+  /* Cursor será definido no App.js */
+}
+
+.pixel {
+  width: 100%;
+  height: 100%;
+  border: 1px solid #eee;
+  box-sizing: border-box;
+}
